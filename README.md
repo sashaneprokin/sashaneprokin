@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alexander Neprokin</h1>
-<h3 align="center">A skilful front-end developer from Ukraine</h3>
 
 ![2022-04-25 12 01 04](https://user-images.githubusercontent.com/26687863/165059881-c7da6a8f-db1e-4353-82c6-68abd555be00.jpg)
 
